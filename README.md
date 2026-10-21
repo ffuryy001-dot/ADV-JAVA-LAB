@@ -339,6 +339,8 @@ Import the initial seed data:
 ---
 
 ### Author & Academic Credits
+* **Author**: Zaid
+* **Roll No**: 24EGJIT029
 * **Project**: RTU Advanced Java / Java Enterprise Laboratory Suite
 * **Technologies**: Java SE, Java Swing, JDBC, Java Sockets, Java RMI, Jakarta Servlets, JSP, JSTL, Apache Tomcat, MySQL
 * **Year**: 2026
